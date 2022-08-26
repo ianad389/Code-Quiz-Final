@@ -27,8 +27,8 @@ This video I attached was useful on how to include a timer in Javascript.
 
 ## Screenshots
 Here is some screenshots of the code and project! 
-![App](Screen%20Shot%202022-08-25%20at%207.48.57%20AM.png)
-![App](Screen%20Shot%202022-08-25%20at%207.49.39%20AM.png)
+![App](/Assets/Screen%20Shot%202022-08-25%20at%207.48.57%20AM.png)
+![App](/Assets/Screen%20Shot%202022-08-25%20at%207.49.39%20AM.png)
 
 
 ## Acceptance Criteria
