@@ -17,7 +17,7 @@ Youtuber: https://www.youtube.com/c/WebDevSimplified
 video: https://www.youtube.com/watch?v=riDzcEQbX6k
 Github: https://github.com/WebDevSimplified
 
-the link above was the video that really taugt me the fundamentals on how javascripts reacts when developing a web application.
+the link above was the video that really taught me the fundamentals on how javascripts reacts when developing a web application.
 
 Youtuber: https://www.youtube.com/c/FlorinPop
 video: https://www.youtube.com/watch?v=x7WJEmxNlEs
